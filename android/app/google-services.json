@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "462938606147",
+    "firebase_url": "https://aqumosys.firebaseio.com",
+    "project_id": "aqumosys",
+    "storage_bucket": "aqumosys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462938606147:android:d41df03b1e2a26ecc5a2f6",
+        "android_client_info": {
+          "package_name": "com.example.syncfusionchart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-FN7hhxn5__mS82GLzq2E0HVoIezTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462938606147:android:787ac10b86853b9bc5a2f6",
+        "android_client_info": {
+          "package_name": "id.lima.aqumosys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-FN7hhxn5__mS82GLzq2E0HVoIezTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462938606147:android:c00d05b0abfe92afc5a2f6",
+        "android_client_info": {
+          "package_name": "id.yunip.aquamonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462938606147-odllic34si6n4su0tiu3vh0k7j6hqsfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.yunip.aquamonitoring",
+            "certificate_hash": "b7b01e8b92808ff656fdae3c4bd316bda857fdc4"
+          }
+        },
+        {
+          "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-FN7hhxn5__mS82GLzq2E0HVoIezTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462938606147-8mfie6noeuibdua1qr77miubt673jpqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
